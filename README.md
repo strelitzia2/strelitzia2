@@ -1,6 +1,6 @@
 # Chong Taedoo
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am a student studying computer language.<br>
 ## :사각모: Education
 - Hankuk University of Foreign Studies, Global Business & Technology, Freshman
 ## :우편함: How to reach me
