@@ -2,7 +2,7 @@
 Hi there! Welcome to my Github!<br>
 I am a student studying computer language.<br>
 ## :사각모: Education
-- Hankuk University of Foreign Studies, Global Business & Technology, Freshman
+- Hankuk University of Foreign Studies, Global Business & Technology, Computer Engineering, Freshman
 ## :우편함: How to reach me
 <a href="mailto:jtd0612@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/strelitzia_hyli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -22,3 +22,5 @@ I am a student studying computer language.<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
