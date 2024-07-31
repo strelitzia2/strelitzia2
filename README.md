@@ -1,6 +1,6 @@
 # Chong Taedu
 Hi there! Welcome to my Github!<br>
-I am a student studying computer language.<br>
+I am a student studying business & computer language.<br>
 ## :사각모: Education
 - Hankuk University of Foreign Studies, Global Business & Technology, Computer Engineering, Freshman
 ## :우편함: How to reach me
