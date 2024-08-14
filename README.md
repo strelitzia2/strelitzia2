@@ -24,3 +24,5 @@ I am a student studying business & computer language.<br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
+## :성장과정: Growing
+[![코드트리|실력진단-jtd0612](https://banner.codetree.ai/v1/banner/jtd0612)](https://www.codetree.ai/profiles/jtd0612)
