@@ -26,3 +26,4 @@ I am a student studying business & computer language.<br>
 
 ## :성장과정: Growing
 [![코드트리|실력진단-jtd0612](https://banner.codetree.ai/v1/banner/jtd0612)](https://www.codetree.ai/profiles/jtd0612)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={jtd0612})](https://solved.ac/{jtd0612})
