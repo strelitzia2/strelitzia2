@@ -1,6 +1,6 @@
 # Chong Taedu
-Hi there! Welcome to my Github!<br>
-I am a student studying business & computer language.<br>
+Hello there! Welcome to my Github!<br>
+I am a student studying business administration & computer language.<br>
 ## :사각모: Education
 - Hankuk University of Foreign Studies, Global Business & Technology, Computer Engineering, Freshman
 ## :우편함: How to reach me
@@ -15,6 +15,7 @@ I am a student studying business & computer language.<br>
 
 ## :트로피: Awards
 -Certificate of HUFS! CAMP 
+-Excellence Award - Capstone Project Symposium - Hankuk University of Foreign Studies
 
 -Certificate of HUFS! START-UP! PYTHON
 ## :망치와_렌치: Skills
